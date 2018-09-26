@@ -1,0 +1,7 @@
+C:\Users\ice19942335\source\repos\AleksejsBirula_HW_8\Sortirovka_Sliyaniem\bin\Debug\Sortirovka_Sliyaniem.exe.config
+C:\Users\ice19942335\source\repos\AleksejsBirula_HW_8\Sortirovka_Sliyaniem\bin\Debug\Sortirovka_Sliyaniem.exe
+C:\Users\ice19942335\source\repos\AleksejsBirula_HW_8\Sortirovka_Sliyaniem\bin\Debug\Sortirovka_Sliyaniem.pdb
+C:\Users\ice19942335\source\repos\AleksejsBirula_HW_8\Sortirovka_Sliyaniem\obj\Debug\Sortirovka_Sliyaniem.csprojAssemblyReference.cache
+C:\Users\ice19942335\source\repos\AleksejsBirula_HW_8\Sortirovka_Sliyaniem\obj\Debug\Sortirovka_Sliyaniem.csproj.CoreCompileInputs.cache
+C:\Users\ice19942335\source\repos\AleksejsBirula_HW_8\Sortirovka_Sliyaniem\obj\Debug\Sortirovka_Sliyaniem.exe
+C:\Users\ice19942335\source\repos\AleksejsBirula_HW_8\Sortirovka_Sliyaniem\obj\Debug\Sortirovka_Sliyaniem.pdb

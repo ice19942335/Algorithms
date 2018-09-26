@@ -1,0 +1,6 @@
+C:\Users\ice19942335\source\repos\AleksejsBirula_HW_8\QuickSort\bin\Debug\QuickSort.exe.config
+C:\Users\ice19942335\source\repos\AleksejsBirula_HW_8\QuickSort\bin\Debug\QuickSort.exe
+C:\Users\ice19942335\source\repos\AleksejsBirula_HW_8\QuickSort\bin\Debug\QuickSort.pdb
+C:\Users\ice19942335\source\repos\AleksejsBirula_HW_8\QuickSort\obj\Debug\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\ice19942335\source\repos\AleksejsBirula_HW_8\QuickSort\obj\Debug\QuickSort.exe
+C:\Users\ice19942335\source\repos\AleksejsBirula_HW_8\QuickSort\obj\Debug\QuickSort.pdb
